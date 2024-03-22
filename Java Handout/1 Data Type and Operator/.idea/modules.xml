@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/1 Data Type and Operator.iml" filepath="$PROJECT_DIR$/.idea/1 Data Type and Operator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/1 IntroductionToVariable/1 IntroductionToVariable.iml" filepath="$PROJECT_DIR$/1 IntroductionToVariable/1 IntroductionToVariable.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 Scope/2 Scope.iml" filepath="$PROJECT_DIR$/2 Scope/2 Scope.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3 Parse/3 Parse.iml" filepath="$PROJECT_DIR$/3 Parse/3 Parse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4 StringManipulation/4 StringManipulation.iml" filepath="$PROJECT_DIR$/4 StringManipulation/4 StringManipulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5 Big Decimal/5 Big Decimal.iml" filepath="$PROJECT_DIR$/5 Big Decimal/5 Big Decimal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6 DateTimeManipulation/6 DateTimeManipulation.iml" filepath="$PROJECT_DIR$/6 DateTimeManipulation/6 DateTimeManipulation.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/1 Object And Class/1 Object And Class.iml" filepath="$PROJECT_DIR$/1 Object And Class/1 Object And Class.iml" />
+      <module fileurl="file://$PROJECT_DIR$/2 Value vs Reference/2 Value vs Reference.iml" filepath="$PROJECT_DIR$/2 Value vs Reference/2 Value vs Reference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/3 Static/3 Static.iml" filepath="$PROJECT_DIR$/3 Static/3 Static.iml" />
+      <module fileurl="file://$PROJECT_DIR$/4 Encapsulation/4 Encapsulation.iml" filepath="$PROJECT_DIR$/4 Encapsulation/4 Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/5 Enumeration/5 Enumeration.iml" filepath="$PROJECT_DIR$/5 Enumeration/5 Enumeration.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/5 OOP.iml" filepath="$PROJECT_DIR$/.idea/5 OOP.iml" />
+      <module fileurl="file://$PROJECT_DIR$/6 Inheritance/6 Inheritance.iml" filepath="$PROJECT_DIR$/6 Inheritance/6 Inheritance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/7 Interface And Abstract Class/7 Interface And Abstract Class.iml" filepath="$PROJECT_DIR$/7 Interface And Abstract Class/7 Interface And Abstract Class.iml" />
+    </modules>
+  </component>
+</project>
